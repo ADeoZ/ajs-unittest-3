@@ -1,4 +1,4 @@
-import { getLevel } from '../app';
+import getLevel from '../app';
 import fetchData from '../http';
 
 jest.mock('../http');
